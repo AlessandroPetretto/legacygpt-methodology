@@ -1,4 +1,5 @@
 # LegacyGPT – Methodology for AI Wills (v1.0, 2025)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15338052.svg)](https://doi.org/10.5281/zenodo.15338052)
 
 > “Lascia un dialogo, non solo un documento.”
 
