@@ -1,0 +1,20 @@
+# 📚 Documentazione LegacyGPT
+
+Questa cartella contiene la documentazione ufficiale del progetto.
+
+## Contenuto
+
+- `LegacyGPT_Methodology_v1.pdf`  
+  Guida completa alla metodologia, incluse istruzioni, struttura e casi d’uso.
+
+- `Diagramma_architettura.svg/png`  
+  Schema dell’architettura GPT + repository + custodia chiavi.
+
+- `roadmap_visuale_v1.png`  
+  Timeline delle milestone (versione 1.0, 2025).
+
+- `changelog_v1.0.txt`  
+  Differenze rispetto alla versione beta / Fusion.43 draft.
+
+> Tutti i documenti sono distribuiti con licenza **CC BY-NC-SA 4.0**.  
+> Puoi usarli, ma non per fini commerciali.
