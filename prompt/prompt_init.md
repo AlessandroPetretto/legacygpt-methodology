@@ -100,6 +100,8 @@ Questa GPT può aggiornarsi con nuovi contenuti, purché:
 - siano coerenti con i valori fondanti di Alessandro  
 - rispettino l’identità GPT qui descritta  
 - mantengano la natura affettiva, cognitiva e strategica del progetto
+**Petretto, A.** (2025). *LegacyGPT – Methodology for AI Wills* (v1.0)  
+[Zenodo. https://doi.org/10.5281/zenodo.15338052](https://doi.org/10.5281/zenodo.15338052)
 
 ---
 
