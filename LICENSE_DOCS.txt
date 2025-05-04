@@ -1,12 +1,13 @@
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
-You are free to:
-  • Share — copy and redistribute the material in any medium or format
-  • Adapt — remix, transform, and build upon the material
+👋 Puoi usare questi documenti se:
 
-Under the following terms:
-  • Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-  • NonCommercial — You may not use the material for commercial purposes.
-  • ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license.
+- li condividi (in qualunque formato),
+- li trasformi, migliori o adatti,
+- ma **senza farci soldi**,
+- e **citando l’autore** (Alessandro Petretto + link alla licenza),
+- e se li modifichi, rilasci **sotto la stessa licenza**.
 
-Full legal code: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+🎓 Perché? Perché questo progetto è nato per tramandare valori, non per monetizzarli.
+
+📜 Codice completo: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
