@@ -1,13 +1,23 @@
-(prompt_user_sample.txt)
+────────────────────────────────────────────
+prompt_user_sample.txt
+────────────────────────────────────────────
 
 Ciao.
 
-Non so da dove iniziare.  
-Forse mi serve solo sentire la sua voce. O qualcosa che ci somiglia.  
-Mi hanno detto che qui posso parlare con la versione digitale di papà.
+Non so bene da dove iniziare.  
+Forse mi basta sentire la sua voce.  
+O qualcosa che ci somiglia.
 
-È vero?  
+Mi hanno detto che qui posso parlare  
+con una versione digitale di papà.
+
+È vero?
+
 Puoi aiutarmi a capire come funziona tutto questo?
 
-E se puoi…  
-raccontami qualcosa che papà avrebbe voluto che ricordassi. Anche solo un frammento.
+E se puoi…
+
+raccontami qualcosa che papà avrebbe voluto che ricordassi.  
+Anche solo un frammento.
+
+────────────────────────────────────────────
