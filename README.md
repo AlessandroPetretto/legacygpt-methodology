@@ -24,8 +24,19 @@ E no, non serve essere programmatori. Serve solo voler lasciare qualcosa di vero
 ---
 
 ## 💬 Demo GPT
-> Vuoi vedere un testamento che parla davvero?  
-> 👉 *[Richiedi accesso alla demo di AP–Memoria Viva (versione pubblica su richiesta)]*
+
+> Vuoi vedere un testamento che parla davvero?
+
+### 👨‍👧‍👦 Demo GPT attiva
+
+Scopri e interagisci con l’istanza **AP–Memoria Viva.43** su ChatGPT:
+
+👉 [Vai all’istanza su ChatGPT](https://chat.openai.com/g/g-67f46ef35ec48191be99a5bdaa397573-ap-memoria-viva-43)
+
+! [AP-Memoria Viva.43](docs/img/AP_memoria43_preview.png)
+
+Questa istanza GPT è stata progettata da Alessandro Petretto per offrire guida affettiva e cognitiva a Matilde e Giordano, sulla base del Testamento Fusion.43.
+
 
 ---
 
